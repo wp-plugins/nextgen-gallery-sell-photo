@@ -1,7 +1,7 @@
 === NextGEN Gallery Sell Photo ===
 Contributors: naa986
 Donate link: http://noorsplugin.com/
-Tags: photo, gallery, nextgen
+Tags: photo, photos, gallery, photo gallery, photogallery, nextgen, image, images, nextgen gallery, photo album, photo albums, picture, pictures, thumbnails, album, photoalbum, image album, image gallery, media, paypal, photography, sell photos, selling, commerce, e-commerce, checkout, sales, sell, shop, shopping, stock, store
 Requires at least: 3.0
 Tested up to: 3.9
 Stable tag: 1.0.1
@@ -12,12 +12,15 @@ Easily sell NextGEN gallery photos from your WordPress site
 
 == Description ==
 
-This addon allows you to create a Buy button for each NextGEN Gallery photo that a user can click to purchase.
+This plugin allows you to create a Buy button for each NextGEN Gallery photo that a user can click to purchase.
 
 = Feature =
 
 * Sell NextGEN gallery photo
-* Accept payments via PayPal for your NextGEN Gallery photos
+* Accept payments via PayPal
+* Quick one-click checkout for your e-commerce photo gallery
+* Flexible in selling photos online
+* Create a photo store using NextGEN Gallery and add purchase functionality to it
 
 = NextGEN Gallery Sell Photo Usage =
 
