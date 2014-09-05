@@ -1,7 +1,7 @@
 === NextGEN Gallery Sell Photo ===
 Contributors: naa986
 Donate link: http://noorsplugin.com/
-Tags: photo, photos, gallery, photo gallery, photogallery, nextgen, image, images, nextgen gallery, photo album, photo albums, picture, pictures, thumbnails, album, photoalbum, image album, image gallery, media, paypal, photography, sell photos, selling, commerce, e-commerce, checkout, sales, sell, shop, shopping, stock, store
+Tags: photo, photos, gallery, photo gallery, photogallery, nextgen, image, images, nextgen gallery, photo album, photo albums, picture, pictures, thumbnails, album, photoalbum, image album, image gallery, media, paypal, photography, sell photos, selling, commerce, e-commerce, checkout, sales, sell, shop, shopping, stock, store 
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.0.1
