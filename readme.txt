@@ -42,6 +42,10 @@ Now, insert your NextGEN gallery shortcode into a post/page like the following:
 
 For documentation please visit the [NextGEN Sell Photo](http://noorsplugin.com/2014/08/17/nextgen-gallery-sell-photo-plugin/) plugin page
 
+= Recommended Reading =
+
+* NextGEN Gallery Sell Photo [Documentation](http://noorsplugin.com/2014/08/17/nextgen-gallery-sell-photo-plugin/)
+* My Other [Free WordPress Plugins](http://noorsplugin.com/wordpress-plugins/)
 
 == Installation ==
 
